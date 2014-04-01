@@ -1,4 +1,4 @@
 {
-    "url": "mongodb://rajatgupta431:1271994127@oceanic.mongohq.com:10001/herglucose",
+    "url": "mongodb://jason:12345@oceanic.mongohq.com:10068/ellaglucose",
     "collection": "entries"
 }
